@@ -1,0 +1,10 @@
+1.hari,dr.reddy
+2.prasad,dr.reddy,
+3.raja,dr.sharma,
+4.samara,dr.reddy
+5.seetha,dr.reddy
+6.ram,dr.reddy
+7.ramudu,dr.reddy
+8.raju,dr.reddy
+9.reddy,dr.sharma
+10.ram,dr.reddy
